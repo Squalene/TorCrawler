@@ -1,0 +1,12 @@
+To deny:
+
+mailto:freeformatter@gmail.com
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png
+
+
+To accept:
+
+https://www.freeformatter.com/java-regex-tester.html
+http://fightingforalostcause.net/misc/2006/compare-email-regex.php
+http://www.cleancss.com/diff-compare-merge
+http://www.cssfontstack.com/
