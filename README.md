@@ -1,7 +1,7 @@
 # CustomTorCrawler
 This project presents a multi-threaded web crawler on the [Tor network](https://www.torproject.org) that was used to discover 500 000 onion domains and 6 million pages during a 2 month crawl.
 
-On of it key characteristic is the use of a persistent queue that enables it to be stopped, and restarted from its previous state at any time as well as recover from an unexpected server crash.
+On of its key characteristic is the use of a persistent queue that enables it to be stopped, and restarted from its previous state at any time as well as recover from an unexpected server crash.
 To crawl pages requiring a login, previously generated cookies can be stored in the src/ressources/cookies.json file.
 
 ## Launch 
